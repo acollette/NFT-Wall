@@ -1,0 +1,18 @@
+.nft__img__tag img {
+    border-radius: 10% !important;
+    padding-bottom: 0px;
+    background: rgb(80, 148, 128);
+    
+  }
+
+h4{
+    font-family: 'Fredoka One', cursive;
+    color:darkslategrey;
+}
+
+.btn__tag{
+    background-color: darkslategrey !important;
+    color:aliceblue !important;
+
+
+}

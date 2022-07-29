@@ -1,0 +1,62 @@
+.footer h5{
+    font-size: 1.1rem;
+    color: rgb(217, 219, 229);
+    font-family: 'Fredoka One', cursive;
+}
+
+.footer h2{
+    font-size: 1.1rem;
+    color: rgb(217, 219, 229);
+    font-family: 'Fredoka One', cursive;
+}
+
+.footer{
+    padding-bottom: 30px;
+    background:rgb(16, 9, 83);
+}
+
+.list__item{
+    background: transparent !important;
+    padding-left: 0 !important;
+    border: none !important;
+    font-family: 'Fredoka One', cursive;
+    font-size: 1rem;
+
+}
+
+.list__item a{
+    text-decoration: none;
+    color:rgb(59, 167, 167);
+    font-size: 0.92rem;
+}
+
+.list__item a:hover{
+    color:cornflowerblue
+
+}
+
+.newsletter{
+    width: 85%;
+    border-radius: 25px;
+    color:rgb(59, 167, 167);
+    padding: 8px 25px;
+    font-family: 'Fredoka One', cursive;
+    border: none;
+    margin-top: 15px;
+    outline: none;
+    font-size: 0.8rem;
+    background: rgb(254, 251, 251)smoke;
+    margin-bottom: 15px;
+}
+
+.social__links span a {
+    text-decoration: none;
+    color: rgb(59, 167, 167);
+    font-size: 1.3rem;
+    font-weight: 400;
+}
+
+footer p{
+    color:rgb(59, 167, 167);
+}
+

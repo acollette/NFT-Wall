@@ -1,0 +1,54 @@
+
+.hero__section{
+    margin-top: 80px;
+}
+p{
+    font-family: 'Fredoka One', cursive;
+    color: rgb(45, 45, 47);
+}
+
+.hero__content h2{
+    line-height: 55px;
+    font-size: 2.5rem;
+
+}
+
+.hero__content h2 span {
+    background: yellow;
+    background-size: 100% 100%;
+    background-clip: text;
+    -webkit-text-stroke: 3px transparent;
+    -webkit-text-fill-color: #14141f;
+    margin-left: 7px !important;
+    display: inline-block;
+  }
+
+  .hero__btns{
+      margin-top: 30px;
+  }
+
+  .track__btn{
+    border: none;
+    outline: none;
+    padding: 7px 25px !important;
+    border-radius: 50px !important;
+    border: 2px solid darkslategrey !important;
+    font-size: 0.9rem;
+    background: transparent;
+    font-family: 'Fredoka One', cursive;
+
+  }
+
+  .track__btn a{
+      text-decoration: none;
+      color:darkslategrey
+  }
+
+  .explore__btn i{
+      color: #fff;
+      font-size: 1rem;
+  }
+
+  .hero__btns button a:hover{
+      color:rgb(206, 214, 205);
+  }

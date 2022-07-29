@@ -1,0 +1,81 @@
+
+.header {
+    width: 100%;
+    height: 70px;
+    line-height: 70px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 111111;
+  }
+
+.header__shrink {
+    background: #14141f;
+    box-shadow: 2px 2px 4px -2px #e250e5;
+  }
+
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav__list{
+    display: flex;
+    align-items: center;
+    column-gap: 2.7rem;
+    font-family: 'Fredoka One', cursive;
+}
+
+.nav__item a {
+    text-decoration: none;
+    color: darkslategrey;
+}
+
+.nav__item a:hover {
+    color: rgb(206, 214, 205);
+}
+
+.active {
+    color:rgb(59, 167, 167) !important  ;
+}
+
+.logo h2{
+    background-size: 100% 100%;
+    background-clip: text;
+    -webkit-text-stroke: 1px transparent;
+    -webkit-text-fill-color: darkslategrey;
+    
+}
+
+.nav__right .btn{
+    padding: 7px 25px;
+    
+}
+
+.nav__right .btn span i{
+    color:darkslategrey;
+}
+
+.nav__right .btn a {
+    color: darkslategrey;
+    text-decoration: none;
+    font-size: 1rem;
+    font-family: 'Fredoka One', cursive;
+}
+
+.nav__right .btn a:hover {
+    color:rgb(59, 167, 167);
+}
+
+
+
+.mobile__menu{
+    font-size: 1.3rem;
+    color:darkslategrey;
+    display: none;
+}
+
+.padding{
+    padding-top: 10px;
+}

@@ -1,0 +1,25 @@
+.trending__title {
+    color:darkslategrey;
+    font-family: 'Fredoka One', cursive;
+}
+
+.filter{
+    display:flex;
+    flex-direction: row;
+}
+
+.filter__select{
+    padding-left: 15px;
+}
+
+.btn{
+    border: none;
+    outline: none;
+    border-radius: 50px !important;
+    border: 2px solid darkslategrey !important;
+    font-size: 0.9rem;
+    background: transparent;
+    font-family: 'Fredoka One', cursive;
+    padding-left: 10px !important;
+
+}
